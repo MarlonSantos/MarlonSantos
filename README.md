@@ -7,7 +7,7 @@
 - ⚙️ I use daily: Python.
 - 🔭 I'm currently learning **Go & Solidity**.
 - **I** ❤️ **to think, learn, code, and automate everything**.
-- 🔥 On Progress Project: Crypto Investiment Calculator.
+- 🔥 On Progress Project: Crypto Investiment monitor.
 - 🎮 My hobbies are BJJ (black belt), hardware development and games.
 - ⭐️ Homebrewer and cofee lover.
 - 💬 Ask me about: everything especially about **tech, movies, series and half guard**.
