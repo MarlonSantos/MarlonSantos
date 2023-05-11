@@ -9,6 +9,7 @@
 - **I** ❤️ **to think, learn, code, and automate everything**.
 - 🔥 On Progress Project: Crypto Investiment Calculator.
 - 🎮 My hobbies are BJJ (black belt), hardware development and games.
+- ⭐️ Homebrewer and cofee lover.
 - 💬 Ask me about: everything especially about **tech, movies, series and half guard**.
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marlonnit@gmail.com)
