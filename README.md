@@ -13,7 +13,7 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marlonnit@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-santos-84627a18/)
-[![Spotify](https://img.shields.io/badge/-Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://www.linkedin.com/in/marlon-santos-84627a18/)
+[![Spotify](https://img.shields.io/badge/-Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2H44qUIeTowENXGLpNd3pc/)
 
 ---
 
