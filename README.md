@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-santos-84627a18/)
 [![Spotify](https://img.shields.io/badge/-Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2H44qUIeTowENXGLpNd3pc/)
 
-<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarlonSantos" alt="MarlonSantos" /> </p> --->
+
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages, Tools and Technologies</b> <br>
@@ -46,3 +46,4 @@
 ![Marlon Santos Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonSantos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9&bg_color=151515)
 ![Marlon Santos Github Stats](https://github-readme-stats.vercel.app/api?username=MarlonSantos&show_icons=true&title_color=fff&icon_color=e62719&text_color=9f9f9f&bg_color=151515)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarlonSantos" alt="MarlonSantos" /> </p> 
