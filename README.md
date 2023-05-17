@@ -6,7 +6,7 @@
 - 👀 I'm currently focusing on **blockchain**, **security**, **automation** and **software development**.
 - ⚙️ I use daily: Python.
 - 🔭 I'm currently learning **Go & Solidity**.
-- **I** ❤️ **to think, learn, code, and automate everything**.
+- **I** ❤️ **to think, learn, code and automate everything**.
 - 🔥 On Progress Project: Crypto Investiment Monitor.
 - 🎮 My hobbies are BJJ (black belt), hardware development and games.
 - ⭐️ Homebrewer and coffee lover.
