@@ -8,7 +8,7 @@
 - 🔭 I'm currently learning **Go & Solidity**.
 - **I** ❤️ **to think, learn, code and automate everything**.
 - 🔥 On Progress Project: Crypto Investiment Monitor.
-- 🎮 My hobbies are BJJ (black belt), hardware development and games.
+- 🎮 My hobbies are BJJ (black belt), electronics and games.
 - ⭐️ Homebrewer and coffee lover.
 - 💬 Ask me about: everything especially about **tech, movies, series and half guard**.
 
