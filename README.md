@@ -43,7 +43,7 @@
 
 ---
 <!---79ff97 #  9f9f9 --->
-![Marlon Santos Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonSantos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9&bg_color=151515)
-![Marlon Santos Github Stats](https://github-readme-stats.vercel.app/api?username=MarlonSantos&show_icons=true&title_color=fff&icon_color=e62719&text_color=9f9f9f&bg_color=151515)
+![Marlon Santos Github Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarlonSantos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9&bg_color=151515)
+![Marlon Santos Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MarlonSantos&show_icons=true&title_color=fff&icon_color=e62719&text_color=9f9f9f&bg_color=151515)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarlonSantos" alt="MarlonSantos" /> </p> 
