@@ -6,11 +6,9 @@
 - 👀 I'm currently focusing on **blockchain**, **security**, **automation** and **software development**.
 - ⚙️ I use daily: Python.
 - 🔭 I'm currently learning **Go & Solidity**.
-- **I** ❤️ **to think, learn, code and automate everything**.
 - 🔥 On Progress Project: Crypto Investiment Monitor.
-- 🎮 My hobbies are BJJ (black belt), electronics and games.
+- 🦍 BJJ black belt.
 - ⭐️ Homebrewer and coffee lover.
-- 💬 Ask me about: everything especially about **tech, movies, series and half guard**.
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marlonnit@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-santos-84627a18/)
