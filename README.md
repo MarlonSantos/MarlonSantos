@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 
 - 🎓 Telecommunications Engineer.  
-- 👀 I'm currently focusing on **blockchain**, **security**, **automation** and **software development**.
+- 👀 I'm currently focusing on **blockchain** and **software development**.
 - ⚙️ I use daily: Python.
 - 🔭 I'm currently learning **Go & Solidity**.
 - 🔥 On Progress Project: Crypto Investiment Monitor.
