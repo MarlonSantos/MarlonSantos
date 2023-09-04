@@ -3,9 +3,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 
 - 🎓 Telecommunications Engineer.  
-- ⚙️ I use daily: ?.
 - 🔭 I'm currently learning **Ionic** & **Angular**.
-- 🔥 On Progress Project: Crypto Investiment Monitor.
+- 🔥 On Progress Project: Crypto Investiment Monitor [on hold].
 - 🦍 BJJ black belt.
 - ⭐️ Homebrewer and coffee lover.
 
