@@ -4,7 +4,6 @@
 
 - 🎓 Telecommunications Engineer.  
 - 🔭 I'm currently learning **Ionic** & **Angular**.
-- 🔥 On Progress Project: Crypto Investiment Monitor [on hold].
 - 🦍 BJJ black belt.
 - ⭐️ Homebrewer and coffee lover.
 
