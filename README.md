@@ -3,9 +3,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 
 - 🎓 Telecommunications Engineer.  
-- 👀 I'm currently focusing on **blockchain** and **software development**.
-- ⚙️ I use daily: Python.
-- 🔭 I'm currently learning **Go & Solidity**.
+- ⚙️ I use daily: ?.
+- 🔭 I'm currently learning **Ionic** & **Angular**.
 - 🔥 On Progress Project: Crypto Investiment Monitor.
 - 🦍 BJJ black belt.
 - ⭐️ Homebrewer and coffee lover.
