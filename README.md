@@ -24,7 +24,8 @@
 ![SQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)
 ![Go](https://img.shields.io/badge/-GO-222222?style=flat&logo=go)
 ![Solidity](https://img.shields.io/badge/-Solidity-222222?style=flat&logo=solidity)
-
+![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=angular&logoColor=cc0000)
+![Ionic](https://img.shields.io/badge/-Ionic-222222?style=flat&logo=ionic&logoColor=0077B5)
 
 ![Excel](https://img.shields.io/badge/-Excel-222222?style=flat&logo=microsoft-excel&logoColor=217346)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-222222?style=flat&logo=visual-studio-code&logoColor=0077B5)
