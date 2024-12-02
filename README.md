@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 
 - 🎓 Telecommunications Engineer.  
-- 🔭 I'm currently learning **Ionic** & **Angular**.
+- 🔭 I'm currently learning **RUST**.
 - 🦍 BJJ black belt.
 - ⭐️ Homebrewer and coffee lover.
 
