@@ -4,7 +4,7 @@
 
 - 🎓 Telecommunications Engineer.  
 - 🔭 I'm currently learning **RUST**.
-- 🦍 BJJ black belt.
+- 🦍 BJJ black belt, 1 Degree.
 - ⭐️ Homebrewer and coffee lover.
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marlonnit@gmail.com)
